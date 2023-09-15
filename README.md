@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Lily</h1>
 <h2 align="center">A junior full-stack web developer based in Barcelona</h2>
 
